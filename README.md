@@ -5,5 +5,5 @@ Detection Device Jailbreak State
 
 Just Import .h file and call this method:
 
-[JBDetection isDeviceJailbroken];
+```[JBDetection isDeviceJailbroken];```
 
